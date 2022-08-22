@@ -1,0 +1,42 @@
+.text-red {
+    color: red;
+}
+
+.text-purple {
+    color: purple;
+}
+
+.text-yellow {
+    color: goldenrod;
+}
+
+.list-center {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.font-lucida-console {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.thick {
+    font-weight: bold;
+}
+
+.center {
+    text-align: center;
+}
+
+.wh-50 {
+    width: 50%;
+    height: 50%;
+}
+
+.wh-25 {
+    width: 25%;
+    height: 25%;
+}
+
+.font-gill-sans {
+    font-family: "Gill Sans", sans-serif;
+}
